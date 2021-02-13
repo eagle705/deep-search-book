@@ -1,0 +1,63 @@
+I"e<h1 class="fs-9" id="introduction">Introduction</h1>
+
+<p class="fs-6 fw-300">Deep Search Book은 검색엔진에 대한 기본적인 개념을 정리하고, 더 나아가 딥러닝을 활용하여 어떤 검색을 할 수 있는지 배우고 알아보는 것을 목표로 합니다.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle exec jekyll serve
+</code></pre></div></div>
+
+<p><a href="#getting-started" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">Get started now</a> <a href="https://github.com/eagle705/deep-search-book" class="btn fs-5 mb-4 mb-md-0">View it on GitHub</a></p>
+
+<hr />
+
+<h2 id="objectives">Objectives</h2>
+<ul>
+  <li>서술
+    <ul>
+      <li>간결하게 쓴다</li>
+      <li>예시를 사용하되, 짧고 명쾌하게 쓴다</li>
+      <li>예시는 통일성 있게 사용한다</li>
+      <li>논리를 전개할 때 질문을 사용한다</li>
+      <li>문체는 고민..</li>
+    </ul>
+  </li>
+  <li>실습
+    <ul>
+      <li>코드를 함께 첨부한다</li>
+      <li>최신 라이브러리를 응용한다</li>
+      <li>실습환경을 제공한다</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="getting-started">Getting started</h2>
+
+<h3 id="실습코드">실습코드</h3>
+
+<p>교재에 나온 실습코드는 다음의 Repo에 정리 될 예정입니다.</p>
+<ul>
+  <li>Github:</li>
+  <li>Colab:</li>
+</ul>
+
+<h1 id="course">Course</h1>
+
+<ul>
+  <li>검색엔진 기본 개념 정리 (tf-idf, LM, vsm, bm25)</li>
+  <li>딥러닝을 활용한 문서태깅</li>
+  <li>엘라스틱서치로 서비스하기</li>
+  <li>딥러닝 MRC로 더 원하는 답 찾기</li>
+  <li>검색엔진 평가</li>
+  <li>검색 결과 확인을 위한 대시보드(kibana)</li>
+  <li>gpt-3기반 qr</li>
+  <li>user feedback 이용하기 (클릭점수)</li>
+  <li>reranking하기</li>
+</ul>
+
+<h1 id="reference">Reference</h1>
+<ul>
+  <li>임해창 교수님 강의자료</li>
+  <li>https://book.naver.com/bookdb/book_detail.nhn?bid=16271921</li>
+  <li>https://book.naver.com/bookdb/book_detail.nhn?bid=6933748</li>
+  <li>cs 276 : http://web.stanford.edu/class/cs276/</li>
+</ul>
+:ET
